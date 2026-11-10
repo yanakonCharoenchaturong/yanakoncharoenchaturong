@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**yanakonCharoenchaturong/yanakoncharoenchaturong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yanakon 👋
 
-Here are some ideas to get you started:
+### Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning programming and web development.
+I enjoy exploring new technologies and building projects
+to improve my problem-solving and development skills.
+
+---
+
+### 🌱 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- C Programming
+
+### 🎯 Goals
+
+- Improve my programming skills
+- Build practical projects
+- Learn software development workflows
+- Grow as a Software Developer
+
+### 🛠️ Tools & Technologies
+
+- Languages: C, JavaScript
+- Web: HTML, CSS
+- Tools: Git, GitHub, VS Code
+
+---
+
+### 📫 Connect with Me
+
+- GitHub: [@yanakonCharoenchaturong](https://github.com/yanakonCharoenchaturong)
+
+---
+
+⭐ Thanks for visiting my profile!
