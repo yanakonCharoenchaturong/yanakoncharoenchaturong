@@ -1,40 +1,15 @@
 
-# Hi, I'm Yanakon 👋
+# Yanakon Charoenchaturong
 
-### Computer Science Student
+Computer Science student interested in software development and web technologies.
 
-I'm currently learning programming and web development.
-I enjoy exploring new technologies and building projects
-to improve my problem-solving and development skills.
-
----
-
-### 🌱 Currently Learning
-
-- HTML
-- CSS
+Currently learning:
+- C
+- HTML & CSS
 - JavaScript
-- C Programming
 
-### 🎯 Goals
-
-- Improve my programming skills
-- Build practical projects
-- Learn software development workflows
-- Grow as a Software Developer
-
-### 🛠️ Tools & Technologies
-
-- Languages: C, JavaScript
-- Web: HTML, CSS
-- Tools: Git, GitHub, VS Code
+I use Git and GitHub to work on projects, practice coding, and keep track of what I learn.
 
 ---
 
-### 📫 Connect with Me
-
-- GitHub: [@yanakonCharoenchaturong](https://github.com/yanakonCharoenchaturong)
-
----
-
-⭐ Thanks for visiting my profile!
+GitHub: [@yanakonCharoenchaturong](https://github.com/yanakonCharoenchaturong)
